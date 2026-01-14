@@ -38,15 +38,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](jonathan.a.diaz.m@gmail.com)
+[![Email](https://img.shields.io/badge/jonathan.a.diaz.m@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](jonathan.a.diaz.m@gmail.com)
