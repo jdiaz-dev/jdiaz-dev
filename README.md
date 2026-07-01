@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 Backend Software engineer with 5 years of experiencie in the backend world with Node.js, Nest.js, Lambda, MongoDB and AWS.
+👨‍💻 Software engineer with 7 years of experiencie Python, JavaScript, Node.js and AWS ecosystem.
 
 ⭐ I like feeling ownership of the projects. I work on and not only write code but also have a critical view of the product, functionalities, and the business.
 
